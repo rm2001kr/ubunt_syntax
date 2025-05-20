@@ -1,3 +1,4 @@
+# 2025/5/20 Linux 요약 2
 # 사용자 추가 및 비밀번호 지정
 SUDO useradd newuser1
 SUDO passwd newuser1
@@ -11,3 +12,6 @@ chmod 644 (644 해석하면 r+w,r,r) 파일명
 chmod u+x 파일명
 chmod u-x 파일명
 chmod u=r 파일명
+
+# 소유자 그룹 변경 
+chown newuser1:newuser1 파일명

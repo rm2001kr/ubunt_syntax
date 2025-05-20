@@ -1,3 +1,4 @@
+# 2025/5/20 Linux 요약 3
 # 쉘 스크립트 작성 : 반드시 확장자 .sh 
 touch myscript.sh 
 nano myscript.sh
