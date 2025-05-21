@@ -1,3 +1,4 @@
+# 2025/5/21 Linux 요약 4
 # 프로세스 목록조회 
 ps -ef 
 ps -ef | grep "nginx"
